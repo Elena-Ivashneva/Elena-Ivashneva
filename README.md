@@ -1,4 +1,6 @@
-### Hi there 👋
+### Всем привет 👋
+
+Мой канал в Telegram: [Бесплатное обучение веб-верстке сайтов (HTML, CSS и JavaScript)](https://t.me/+3hqAchw5fIBmOThi)
 
 <!--
 **Elena-Ivashneva/Elena-Ivashneva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
